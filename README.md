@@ -1,7 +1,5 @@
 *This is an attempt to simulate the working of Ricart-Agrawala-Algorithm for mutual exclusion in distributed applications*
 
-This package has sample implementation of Ricart-Agrawala-Algorithm for mutual exclusion in distributed applications
-
 THIS IS A WINDOWS BASED SAMPLE AND TESTED ONLY IN WINDOWS (my laptop is Win10, but it does not matter, it can run in any Windows version)
 
 * About the socket APIs used and mode of communication:
